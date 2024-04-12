@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **react, Laravel, vue**
+- 💬 Ask me about **ReactJs, Laravel, VueJs**
 
 - 📫 How to reach me **hardiksolanki811@gmail.com**
 
