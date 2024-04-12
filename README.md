@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on [RecycingBalers](dealer.recyclingbalers.com)
-
 - 💬 Ask me about **react, Laravel, vue**
 
 - 📫 How to reach me **hardiksolanki811@gmail.com**
